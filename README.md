@@ -68,8 +68,8 @@ Ambas herramientas son excelentes opciones para probar y depurar APIs. Puedes el
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/Obi-V/04-pipesApp.git`
-2. Navega hasta el directorio del proyecto: `cd 04-pipesApp.git`(Tu ruta)
+1. Clona el repositorio: `git clone https://github.com/Obi-V/05-heroesApp.git`
+2. Navega hasta el directorio del proyecto: `cd 05-heroesApp.git`(Tu ruta)
 3. Instala las dependencias: `npm install`
 3. Levantar backend ```npm run backend``` (Nuestro backend está en './data/db.json' )
 4. Inicia la aplicación: `ng serve` o `ng serve -o`(Se abre automáticamente)
